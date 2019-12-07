@@ -1,0 +1,8 @@
+[
+null,
+{"id":1,"battlerName":"rebecca","characterIndex":0,"characterName":"rebecca","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"Rebecca","nickname":"Becca","note":"","profile":"A young girl of 11 years old."},
+{"id":2,"battlerName":"","characterIndex":0,"characterName":"$$ hiram","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"Hiram","nickname":"Hy","note":"","profile":"A dullahan who is wary of other fairies."},
+{"id":3,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"bedelia","characterIndex":0,"characterName":"bedelia","classId":4,"equips":[4,0,2,3,4],"faceIndex":6,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"Bedelia","nickname":"Deli","note":"","profile":"A young girl of 11 years old."},
+{"id":5,"battlerName":"francie","characterIndex":1,"characterName":"francie","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"Francie","nickname":"Fran","note":"","profile":"A young girl of 13 years old."}
+]
